@@ -1,1 +1,1 @@
-# Right-Step-School-System
+# Right Step School System
